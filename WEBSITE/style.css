@@ -1,0 +1,29 @@
+p.judul {
+    color:rgb(255, 255, 255);
+    text-align: left;
+    font-size:32px;
+}
+
+.movies{
+    display:flex;
+    line-height:1.8;
+}
+
+
+.des{
+    display: none;
+    width: 300px;
+    border: 15px solid rgb(202, 240, 202);
+    padding: 50px;
+    margin: 20px;
+    background-color: rgb(255, 255, 255);
+    
+}
+
+.show{
+    display: block;
+}
+
+p.space{
+    line-height: 1.8;
+}
